@@ -1,0 +1,7 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9fafb;
+}
+select, button {
+  font-size: 1rem;
+}
